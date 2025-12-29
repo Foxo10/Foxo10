@@ -53,21 +53,21 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+  <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/github_dark/3-stats.svg" height="160" alt="Stats" />
-  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" height="160" alt="Repos per language" />
+  <img src="profile-summary-card-output/2077/3-stats.svg" height="160" alt="Stats" />
+  <img src="profile-summary-card-output/2077/1-repos-per-language.svg" height="160" alt="Repos per language" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="160" alt="Most commit language" />
-  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" height="160" alt="Productive time" />
+  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" height="160" alt="Most commit language" />
+  <img src="profile-summary-card-output/2077/4-productive-time.svg" height="160" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/github_dark/5-commits-per-day.svg" width="95%" alt="Activity graph (commits per day)" />
+  <img src="profile-summary-card-output/2077/5-commits-per-day.svg" width="95%" alt="Activity graph (commits per day)" />
 </p>
 
 ---
