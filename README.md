@@ -53,32 +53,21 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
 ## 📈 GitHub stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Foxo10&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400"
-    height="160"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxo10&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400"
-    height="160"
-    alt="Top languages"
-  />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Foxo10&hide_border=true&theme=github-dark"
-    height="180"
-    alt="GitHub streak"
-  />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" height="160" alt="Stats" />
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" height="160" alt="Repos per language" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Foxo10&theme=github-compact&hide_border=true"
-    width="95%"
-    alt="Activity graph"
-  />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="160" alt="Most commit language" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" height="160" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/5-commits-per-day.svg" width="95%" alt="Activity graph (commits per day)" />
 </p>
 
 ---
