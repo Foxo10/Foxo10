@@ -1,16 +1,67 @@
-## Hi there 👋
-
 <!--
-**Foxo10/Foxo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Perfil README de GitHub: https://github.com/Foxo10
+Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
 -->
+
+<h1 align="center">Kaixo 👋 Soy Oier (Foxo10)</h1>
+<p align="center">
+  Estudiante de Ingeniería Informática (UPV/EHU) · Basque Country · Dev web/móvil · Datos/IA · Linux & Docker
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oier-d%C3%ADez-guti%C3%A9rrez-705a87347/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oier%20D%C3%ADez%20Guti%C3%A9rrez-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Foxo10&label=visitas&color=blue&style=flat" />
+</p>
+
+---
+
+## 🚀 Sobre mí
+- 🎓 4º de grado en **Ing. Informática de Gestión y SI** (UPV/EHU)
+- 📱 Me gusta construir **apps móviles**
+- 🌐 También hago **web** (JS/TS) y trasteo con **backend** cuando toca
+- 📊 Interés en **datos / IA** (Python + notebooks)
+- 🐧 Fan de **Linux**, **Docker** y automatizar cosas
+
+## 🔭 En qué estoy ahora
+- 📅 
+- 🧪 
+- ⚙️ 
+
+## 🧰 Tech stack (lo que más uso)
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+## 📌 Proyectos destacados
+- 🚗 **Unigo** (coche compartido / reservas): https://github.com/Foxo10/Unigo
+- 🗺️ **Wikifont**: https://github.com/Foxo10/Wikifont
+  
+
+## 📈 GitHub stats
+<p align="center">
+  <img height="160" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Foxo10&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="160" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxo10&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img alt="streak" src="https://streak-stats.demolab.com?user=Foxo10&hide_border=true&theme=github-dark" />
+</p>
+
+---
+
+## 🤝 Contacto
+- LinkedIn: https://www.linkedin.com/in/oier-d%C3%ADez-guti%C3%A9rrez-705a87347/
+- GitHub: https://github.com/Foxo10
