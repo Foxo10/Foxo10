@@ -51,14 +51,20 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
   
 
 ## 📈 GitHub stats
-<p align="center">
-  <img height="160" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Foxo10&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="160" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxo10&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Foxo10&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400"
+  height="160"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxo10&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400"
+  height="160"
+/>
 
-<p align="center">
-  <img alt="streak" src="https://streak-stats.demolab.com?user=Foxo10&hide_border=true&theme=github-dark" />
-</p>
+<!-- Streak (puede fallar a ratos si el servicio está saturado) -->
+<img
+  src="https://streak-stats.demolab.com?user=Foxo10&hide_border=true&theme=github-dark"
+  height="180"
+/>
 
 ---
 
