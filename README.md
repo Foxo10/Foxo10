@@ -51,22 +51,38 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
   
 
 ## 📈 GitHub stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Foxo10&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400"
-  height="160"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxo10&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400"
-  height="160"
-/>
 
-<!-- Streak (puede fallar a ratos si el servicio está saturado) -->
-<img
-  src="https://streak-stats.demolab.com?user=Foxo10&hide_border=true&theme=github-dark"
-  height="180"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Foxo10&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400"
+    height="160"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxo10&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400"
+    height="160"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Foxo10&hide_border=true&theme=github-dark"
+    height="180"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Foxo10&theme=github-compact&hide_border=true"
+    width="95%"
+    alt="Activity graph"
+  />
+</p>
 
 ---
+
 
 ## 🤝 Contacto
 - LinkedIn: https://www.linkedin.com/in/oier-d%C3%ADez-guti%C3%A9rrez-705a87347/
