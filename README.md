@@ -66,10 +66,6 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
   <img src="profile-summary-card-output/2077/4-productive-time.svg" height="160" alt="Productive time" />
 </p>
 
-<p align="center">
-  <img src="profile-summary-card-output/2077/5-commits-per-day.svg" width="95%" alt="Activity graph (commits per day)" />
-</p>
-
 ---
 
 
