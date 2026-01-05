@@ -1,11 +1,10 @@
 <!--
 Perfil README de GitHub: https://github.com/Foxo10
-Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
 -->
 
 <h1 align="center">Kaixo 👋 Soy Oier (Foxo10)</h1>
 <p align="center">
-  Estudiante de Ingeniería Informática (UPV/EHU) · Basque Country · Dev web/móvil · Datos/IA · Linux & Docker
+  Estudiante de Ingeniería Informática (UPV/EHU) · Estudiante en 42 Urduliz · Basque Country · Dev web/móvil · Datos/IA · Linux & Docker
 </p>
 
 <p align="center">
@@ -19,15 +18,16 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
 
 ## 🚀 Sobre mí
 - 🎓 4º de grado en **Ing. Informática de Gestión y SI** (UPV/EHU)
+- 🏊‍♂️ Estudiante de **42 Urduliz** (Piscine)
 - 📱 Me gusta construir **apps móviles**
 - 🌐 También hago **web** (JS/TS) y trasteo con **backend** cuando toca
 - 📊 Interés en **datos / IA** (Python + notebooks)
 - 🐧 Fan de **Linux**, **Docker** y automatizar cosas
 
 ## 🔭 En qué estoy ahora
-- 📅 
-- 🧪 
-- ⚙️ 
+- 🏊‍♂️ **Estudiante en 42 Urduliz** — recopilando apuntes, progreso y aprendizajes
+- 📚 Repo de la Piscine: https://github.com/Foxo10/42-igerilekua
+- ⚙️ Mejorando hábitos de dev: testing, clean code y automatizaciones pequeñas
 
 ## 🧰 Tech stack (lo que más uso)
 <p>
@@ -46,9 +46,9 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
 </p>
 
 ## 📌 Proyectos destacados
+- 🏊‍♂️ **42 Igerilekua** (mi experiencia en la Piscine): https://github.com/Foxo10/42-igerilekua
 - 🚗 **Unigo** (coche compartido / reservas): https://github.com/Foxo10/Unigo
 - 🗺️ **Wikifont**: https://github.com/Foxo10/Wikifont
-  
 
 ## 📈 GitHub stats
 
@@ -67,7 +67,6 @@ Tip: Mantén esto vivo (proyectos, objetivos, stack, etc.)
 </p>
 
 ---
-
 
 ## 🤝 Contacto
 - LinkedIn: https://www.linkedin.com/in/oier-d%C3%ADez-guti%C3%A9rrez-705a87347/
