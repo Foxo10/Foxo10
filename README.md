@@ -25,8 +25,8 @@ Perfil README de GitHub: https://github.com/Foxo10
 - 🐧 Fan de **Linux**, **Docker** y automatizar cosas
 
 ## 🔭 En qué estoy ahora
-- 🏊‍♂️ **Estudiante en 42 Urduliz** — recopilando apuntes, progreso y aprendizajes
-- 📚 Repo de la Piscine: https://github.com/Foxo10/42-igerilekua
+- 🏊‍♂️ **Estudiante de 42** — recopilando apuntes, progreso y aprendizajes
+- 📚 Terminando la carrera trabajando con el TFG
 - ⚙️ Mejorando hábitos de dev: testing, clean code y automatizaciones pequeñas
 
 ## 🧰 Tech stack (lo que más uso)
