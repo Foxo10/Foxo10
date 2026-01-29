@@ -47,6 +47,7 @@ Perfil README de GitHub: https://github.com/Foxo10
 
 ## 📌 Proyectos destacados
 - 🏊‍♂️ **42 Igerilekua** (mi experiencia en la Piscine): https://github.com/Foxo10/42-igerilekua
+- 🖥️ **42 Cursus** (mi evolución durante el Cursus): https://github.com/Foxo10/42-cursus
 - 🚗 **Unigo** (coche compartido / reservas): https://github.com/Foxo10/Unigo
 - 🗺️ **Wikifont**: https://github.com/Foxo10/Wikifont
 
