@@ -18,27 +18,22 @@ Perfil README de GitHub: https://github.com/Foxo10
 
 ## 🚀 Sobre mí
 - 🎓 4º de grado en **Ing. Informática de Gestión y SI** (UPV/EHU)
-- 🏊‍♂️ Estudiante de **42 Urduliz** (Piscine)
+- 🏊‍♂️ Estudiante de **42 Urduliz** (Cursus)
 - 📱 Me gusta construir **apps móviles**
 - 🌐 También hago **web** (JS/TS) y trasteo con **backend** cuando toca
 - 📊 Interés en **datos / IA** (Python + notebooks)
 - 🐧 Fan de **Linux**, **Docker** y automatizar cosas
 
 ## 🔭 En qué estoy ahora
-- 🏊‍♂️ **Estudiante de 42** — recopilando apuntes, progreso y aprendizajes
+- 🏊‍♂️ **Cursus de 42 Urduliz** — recopilando apuntes, progreso y aprendizajes
 - 📚 Terminando la carrera trabajando con el TFG
 - ⚙️ Mejorando hábitos de dev: testing, clean code y automatizaciones pequeñas
 
 ## 🧰 Tech stack (lo que más uso)
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
