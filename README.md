@@ -5,7 +5,7 @@ Perfil README de GitHub: https://github.com/Foxo10
 <h1 align="center">Kaixo 👋 Soy Oier (Foxo10)</h1>
 <p align="center">
   Estudiante de Ingeniería Informática (UPV/EHU) · Estudiante en 42 Urduliz · Basque Country · Dev web/móvil · Datos/IA · Linux & Docker
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.xtrafondos.com/wallpapers/nacht-black-clover-6847.jpg)"  />
 </p>
 
 <p align="center">
