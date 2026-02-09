@@ -8,12 +8,7 @@ Perfil README de GitHub: https://github.com/Foxo10
   <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.xtrafondos.com/wallpapers/nacht-black-clover-6847.jpg)"  />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/oier-d%C3%ADez-guti%C3%A9rrez-705a87347/">
-    <img alt="LinkedIn" src="https://img.shields.io/static/LinkedIn-Oier%20D%C3%ADez%20Guti%C3%A9rrez-0A66C2?logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Foxo10&label=visitas&color=blue&style=flat" />
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/oier-d%C3%ADez-guti%C3%A9rrez-705a87347/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oier%20D%C3%ADez%20Guti%C3%A9rrez-0A66C2?logo=linkedin&logoColor=white" /> </a> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Foxo10&label=visitas&color=blue&style=flat" /> </p>
 
 ---
 
@@ -62,14 +57,6 @@ Perfil README de GitHub: https://github.com/Foxo10
   <img src="profile-summary-card-output/2077/2-most-commit-language.svg" height="160" alt="Most commit language" />
   <img src="profile-summary-card-output/2077/4-productive-time.svg" height="160" alt="Productive time" />
 </p>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foxo10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Foxo10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
