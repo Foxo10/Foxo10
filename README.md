@@ -4,7 +4,7 @@ Perfil README de GitHub: https://github.com/Foxo10
 
 <h1 align="center">Kaixo 👋 Soy Oier (Foxo10)</h1>
 <p align="center">
-  Estudiante de Ingeniería Informática (UPV/EHU) · Estudiante en 42 Urduliz · Basque Country · Dev web/móvil · Datos/IA · Linux & Docker
+  Estudiante de Ingeniería Informática de Gestión y Sistemas de Información (UPV/EHU) · Estudiante en 42 Urduliz · Basque Country · Bioinformática · Desarrollo Software · Datos/ML · Linux & Docker
   <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.xtrafondos.com/wallpapers/nacht-black-clover-6847.jpg)"  />
 </p>
 
@@ -15,15 +15,15 @@ Perfil README de GitHub: https://github.com/Foxo10
 ## 🚀 Sobre mí
 - 🎓 4º de grado en **Ing. Informática de Gestión y SI** (UPV/EHU)
 - 🏊‍♂️ Estudiante de **42 Urduliz** (Cursus)
-- 📱 Me gusta construir **apps móviles**
-- 🌐 También hago **web** (JS/TS) y trasteo con **backend** cuando toca
-- 📊 Interés en **datos / IA** (Python + notebooks)
-- 🐧 Fan de **Linux**, **Docker** y automatizar cosas
+- 📱 Me interesa el desarrollo de software tango **web** como **apps móviles**
+- 📊 Relación de amor odio con **Data Science / ML**
+- 🐧 **Linux** is my passion
 
 ## 🔭 En qué estoy ahora
 - 🏊‍♂️ **Cursus de 42 Urduliz** — recopilando apuntes, progreso y aprendizajes
-- 📚 Terminando la carrera trabajando con el TFG
-- ⚙️ Mejorando hábitos de dev: testing, clean code y automatizaciones pequeñas
+- 📚 Terminando la carrera trabajando con el **TFG** sobre Bioinformática
+- ⏭️ Futuro estudiante del **Máster de Ingeniería Biomédica** en la UPV/EHU
+- ⚙️ Sidequesting con proyectos propios para no oxidarme
 
 ## 🧰 Tech stack (lo que más uso)
 <p>
