@@ -21,7 +21,7 @@ Perfil README de GitHub: https://github.com/Foxo10
 
 ## 🔭 En qué estoy ahora
 - 🏊‍♂️ **Cursus de 42 Urduliz** — recopilando apuntes, progreso y aprendizajes
-- 📚 Terminando la carrera trabajando con el **TFG** sobre Bioinformática
+- 📚 Terminando la carrera trabajando con el **TFG** sobre Bioinformática --> EMPKG
 - ⏭️ Futuro estudiante del **Máster de Ingeniería Biomédica** en la UPV/EHU
 - ⚙️ Sidequesting con proyectos propios para no oxidarme
 
@@ -37,6 +37,7 @@ Perfil README de GitHub: https://github.com/Foxo10
 </p>
 
 ## 📌 Proyectos destacados
+- 🧬 **EMPKG** (mi TFG de bioinformática): https://github.com/Foxo10/EMPKG--Planetary-Microbiome-KG
 - 🏊‍♂️ **42 Igerilekua** (mi experiencia en la Piscine): https://github.com/Foxo10/42-igerilekua
 - 🖥️ **42 Cursus** (mi evolución durante el Cursus): https://github.com/Foxo10/42-cursus
 - 🚗 **Unigo** (coche compartido / reservas): https://github.com/Foxo10/Unigo
