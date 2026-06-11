@@ -37,7 +37,7 @@ Perfil README de GitHub: https://github.com/Foxo10
 </p>
 
 ## 📌 Proyectos destacados
-- 🧬 **EMPKG** (mi TFG de bioinformática): https://github.com/Foxo10/EMPKG--Planetary-Microbiome-KG
+- 🧬 **EMPKG** (mi TFG de bioinformática): https://github.com/Foxo10/EMPKG-Planetary_Microbiome_KG
 - 🏊‍♂️ **42 Igerilekua** (mi experiencia en la Piscine): https://github.com/Foxo10/42-igerilekua
 - 🖥️ **42 Cursus** (mi evolución durante el Cursus): https://github.com/Foxo10/42-cursus
 - 🚗 **Unigo** (coche compartido / reservas): https://github.com/Foxo10/Unigo
