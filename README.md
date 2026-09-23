@@ -2,11 +2,11 @@
 
 # Kaixo 👋 I'm Oier Díez
 
-### Computer Engineering · 42 Urduliz · Software, Data & Knowledge Graphs
+### Computer Engineering · Bioinformatics · 42 Urduliz
 
-I'm a Computer Engineering student at **UPV/EHU** and a student at **42 Urduliz**, interested in building software and exploring how data, semantic technologies and AI can solve real-world problems.
+Computer Engineering student at **UPV/EHU**, incoming **MSc in Bioinformatics** student at **Universidad Europea de Madrid**, and student at **42 Urduliz**.
 
-Currently working on **EMPKG**, my final degree project: a Knowledge Graph built from Earth Microbiome Project data.
+Interested in software engineering, systems programming and the intersection between **computer science, biological data and semantic technologies**.
 
 <br>
 
@@ -23,18 +23,28 @@ Currently working on **EMPKG**, my final degree project: a Knowledge Graph built
 
 ## 👨‍💻 About me
 
-I enjoy working close to the technical foundations of software while also exploring data-intensive applications.
+My background is in **Computer Engineering**, with experience across software development, data, artificial intelligence, Linux and systems programming.
 
-My current interests sit around **software engineering**, **systems programming**, **data engineering**, **Knowledge Graphs** and **bioinformatics**.
+I'm now progressively moving towards **Bioinformatics and Computational Biology**, combining my software background with biological data analysis.
 
-Through UPV/EHU and 42 Urduliz I've worked with areas ranging from Android and web development to Linux, containers, artificial intelligence, databases and low-level programming in C.
+At the same time, studying at **42 Urduliz** allows me to keep developing a deeper understanding of C, Unix systems, algorithms, memory management and concurrency.
 
-## 🔭 Current focus
+My main areas of interest are:
 
-* 🧬 Building **EMPKG / EMPKG-lite**, transforming Earth Microbiome Project data into an RDF Knowledge Graph using Python, ontologies, GraphDB and SPARQL.
-* ⚙️ Developing my **42 Urduliz Cursus**, with a focus on C, memory management, Unix systems, algorithms and concurrency.
-* 🐧 Improving my understanding of **Linux, containers and software architecture**.
-* 🧠 Exploring the intersection between **data, AI and semantic technologies**.
+* 🧬 Bioinformatics & biological data
+* 🔗 Knowledge Graphs & semantic technologies
+* ⚙️ Software engineering
+* 🐧 Linux & systems programming
+* 📊 Data engineering & machine learning
+
+---
+
+## 🔭 What I'm working on
+
+* 🧬 **EMPKG** — my final degree project, building a Knowledge Graph from Earth Microbiome Project data using RDF, ontologies, GraphDB and SPARQL.
+* 🧪 **Bioinfor** — a repository where I'll document projects, exercises and experiments from my MSc in Bioinformatics.
+* ⚙️ **42 Urduliz Cursus** — improving my foundations in C, Unix, algorithms, concurrency and low-level software development.
+* 🎓 Starting an online **Master's Degree in Bioinformatics at Universidad Europea de Madrid**.
 
 ---
 
@@ -42,19 +52,26 @@ Through UPV/EHU and 42 Urduliz I've worked with areas ranging from Android and w
 
 <div align="center">
 
+### Languages
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
+### Tools & Platforms
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 
-<img src="https://img.shields.io/badge/RDF%20%2F%20SPARQL-005A9C?style=flat-square" />
+### Data & Semantic Technologies
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/RDF-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/SPARQL-005A9C?style=flat-square" />
 <img src="https://img.shields.io/badge/GraphDB-Knowledge_Graphs-6A5ACD?style=flat-square" />
 
 </div>
@@ -63,24 +80,61 @@ Through UPV/EHU and 42 Urduliz I've worked with areas ranging from Android and w
 
 ## 🚀 Selected projects
 
-| Project                                                                 | Description                                                                                            | Main technologies                            |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| 🧬 **[EMPKG](https://github.com/Foxo10/EMPKG-Planetary_Microbiome_KG)** | Knowledge Graph for integrating and querying Earth Microbiome Project data and environmental metadata. | Python · RDF · SPARQL · GraphDB · Ontologies |
-| 🏊 **[42 Piscine](https://github.com/Foxo10/42-igerilekua)**            | Projects, exercises and notes from my 42 Urduliz Piscine.                                              | C · Shell · Unix                             |
-| 📱 **[Wikifont](https://github.com/Foxo10/Wikifont)**                   | Android application developed as part of Advanced Software Development at UPV/EHU.                     | Java · Android                               |
-| 🚗 **[Unigo](https://github.com/Foxo10/Unigo_)**                        | Android project focused on shared mobility and ride management.                                        | Java · Android                               |
+| Project                                                                 | Description                                                                                                                                                           | Main technologies                            |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 🧬 **[EMPKG](https://github.com/Foxo10/EMPKG-Planetary_Microbiome_KG)** | Knowledge Graph for integrating and querying Earth Microbiome Project data and environmental metadata.                                                                | Python · RDF · SPARQL · GraphDB · Ontologies |
+| 🧪 **[Bioinfor](https://github.com/Foxo10/Bioinfor)**                   | Projects, exercises and experiments from my Master's Degree in Bioinformatics.                                                                                        | Python · Jupyter · Bioinformatics            |
+| ⚙️ **42 Cursus 🔒**                                                     | My current work at 42 Urduliz: C, algorithms, Unix, memory management and concurrency. Repository currently private because it contains copyrighted project subjects. | C · Unix · Make · Threads                    |
+| 📱 **[Wikifont](https://github.com/Foxo10/Wikifont)**                   | Android application developed for the Advanced Software Development course at UPV/EHU.                                                                                | Java · Android                               |
+| 🏊 **[42 Piscine](https://github.com/Foxo10/42-igerilekua)**            | Projects and exercises from my 42 Urduliz Piscine.                                                                                                                    | C · Shell · Unix                             |
 
 ---
 
-## 🧬 EMPKG — current main project
+## 🧬 Featured project — EMPKG
 
-**Earth Microbiome Project Knowledge Graph**
+### Earth Microbiome Project Knowledge Graph
 
-EMPKG explores how heterogeneous microbiome and environmental data can be represented as a semantic Knowledge Graph.
+**EMPKG** explores how microbiome and environmental data can be represented and queried through semantic technologies.
 
-The project integrates Earth Microbiome Project samples and metadata, maps entities to established ontologies such as **ENVO**, **NCBITaxon**, **GAZ** and **ChEBI**, generates **RDF/Turtle**, and enables semantic querying through **SPARQL and GraphDB**.
+The project transforms data from the **Earth Microbiome Project** into an RDF Knowledge Graph, connecting microbiological samples with environmental context, geographical information and biological taxonomy.
+
+The pipeline includes:
+
+`EMP data` → `data processing` → `ontology mapping` → `RDF` → `GraphDB` → `SPARQL`
+
+The Knowledge Graph integrates established ontologies such as:
+
+* **ENVO** — environmental concepts
+* **NCBITaxon** — biological taxonomy
+* **GAZ** — geographical entities
+* **ChEBI** — chemical entities
+
+The project also explores the use of **LLMs for metadata harmonisation and ontology mapping**.
 
 ➡️ **[Explore EMPKG](https://github.com/Foxo10/EMPKG-Planetary_Microbiome_KG)**
+
+---
+
+## 🎓 Currently learning
+
+```text
+Computer Engineering
+        │
+        ├── Software Engineering
+        ├── Data & Artificial Intelligence
+        └── Systems Programming
+                │
+                ▼
+          Bioinformatics
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+ Biological Data   Knowledge Graphs
+        │                │
+        └───────┬────────┘
+                ▼
+              EMPKG
+```
 
 ---
 
@@ -117,6 +171,6 @@ The project integrates Earth Microbiome Project samples and metadata, maps entit
 
 <br><br>
 
-**Always building, learning and occasionally fighting segfaults.**
+**Building software, exploring biological data and occasionally fighting segfaults.**
 
 </div>
