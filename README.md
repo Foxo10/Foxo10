@@ -48,6 +48,59 @@ My main areas of interest are:
 
 ---
 
+## ⚙️ 42 Urduliz — New Common Core
+
+Alongside university, I'm following the **Common Core at 42 Urduliz**, a project-based software engineering curriculum focused on learning by building, debugging and reviewing real projects.
+
+I'm part of the **new Common Core**, where the previous C++ track has been replaced by **Python**. This gives my path at 42 a progression from low-level programming and Unix fundamentals towards higher-level software development:
+
+```text
+C & Unix foundations
+        │
+        ├── Memory management
+        ├── Makefiles & libraries
+        ├── File descriptors & I/O
+        ├── Processes & system administration
+        └── Threads & synchronization
+                │
+                ▼
+        Algorithms & Software Design
+                │
+                ▼
+              Python
+        ├── OOP & data models
+        ├── Type annotations
+        ├── Testing & tooling
+        └── Larger software projects
+```
+
+Some of the areas I've worked on include **C libraries, file I/O, Linux system administration, concurrency and synchronization**, as well as increasingly complex projects in **Python**.
+
+### 🔒 Why is the repository private?
+
+My current `42-cursus` repository also contains project subject PDFs and other material that I don't want to redistribute publicly.
+
+For that reason, the full repository is currently **private**.
+
+I'm working towards a separate public version that will act as a clean portfolio of my 42 journey, containing only my own work:
+
+```text
+42-cursus/
+├── libft/
+├── get_next_line/
+├── ft_printf/
+├── born2beroot/
+├── ...
+├── python/
+└── README.md
+```
+
+The public repository will focus on the **code, technical decisions, lessons learned and project documentation**, without redistributing 42 subject files.
+
+> 🚧 **Public 42 portfolio coming later**
+
+---
+
 ## 🛠️ Tech stack
 
 <div align="center">
@@ -84,7 +137,7 @@ My main areas of interest are:
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 🧬 **[EMPKG](https://github.com/Foxo10/EMPKG-Planetary_Microbiome_KG)** | Knowledge Graph for integrating and querying Earth Microbiome Project data and environmental metadata.                                                                | Python · RDF · SPARQL · GraphDB · Ontologies |
 | 🧪 **[Bioinfor](https://github.com/Foxo10/Bioinfor)**                   | Projects, exercises and experiments from my Master's Degree in Bioinformatics.                                                                                        | Python · Jupyter · Bioinformatics            |
-| ⚙️ **42 Cursus 🔒**                                                     | My current work at 42 Urduliz: C, algorithms, Unix, memory management and concurrency. Repository currently private because it contains copyrighted project subjects. | C · Unix · Make · Threads                    |
+| ⚙️ **42 Common Core 🔒** | My ongoing curriculum at 42 Urduliz, from low-level programming in C and Unix fundamentals to Python, algorithms and concurrent programming. I'm following the new Common Core, where Python replaces the previous C++ track. | C · Python · Unix · Make · Threads |
 | 📱 **[Wikifont](https://github.com/Foxo10/Wikifont)**                   | Android application developed for the Advanced Software Development course at UPV/EHU.                                                                                | Java · Android                               |
 | 🏊 **[42 Piscine](https://github.com/Foxo10/42-igerilekua)**            | Projects and exercises from my 42 Urduliz Piscine.                                                                                                                    | C · Shell · Unix                             |
 
